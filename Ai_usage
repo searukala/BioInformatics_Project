@@ -1,0 +1,16 @@
+# 🤖 AI Use & Reproducibility Log
+
+**Project:** Differential Gene Expression in T2DM
+**AI Tool Used:** Google Gemini
+**Date:** Fall 2025
+
+## Summary
+AI assistance was utilized to generate template scripts for the standard bioinformatics pipeline (STAR, featureCounts, DESeq2) and to debug R/Python syntax errors. All biological interpretation and pipeline logic were verified by the student.
+
+## Usage Log
+
+| Component | Task | Verification |
+| :--- | :--- | :--- |
+| **Scripts** | Generating bash script templates for STAR alignment and Trimmomatic to ensure correct flag usage. | Flags verified against tool manuals (e.g., STAR manual v2.7). |
+| **R Analysis** | Drafting the DESeq2 design formula and ggplot2 code for the Volcano Plot. | Code tested in local RStudio environment with dummy data. |
+| **Documentation** | Structuring the `README.md` and `environment.yml` to meet reproducibility standards. | Verified against course rubric requirements. |
